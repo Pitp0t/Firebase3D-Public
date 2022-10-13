@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wrinkly Chair
+* source:	https://sketchfab.com/3d-models/wrinkly-chair-ca86615f1b924275a579e063256abbe4
+* author:	AtTheSpeedOf (https://sketchfab.com/AtTheSpeedOf)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wrinkly Chair" (https://sketchfab.com/3d-models/wrinkly-chair-ca86615f1b924275a579e063256abbe4) by AtTheSpeedOf (https://sketchfab.com/AtTheSpeedOf) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

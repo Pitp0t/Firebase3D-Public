@@ -1,0 +1,403 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1566,
+      "max": [
+        0.36633941531181335,
+        0.3806799650192261,
+        0.6439591646194458
+      ],
+      "min": [
+        -0.36633941531181335,
+        -0.4268234372138977,
+        -0.032775700092315674
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 18792,
+      "componentType": 5126,
+      "count": 1566,
+      "max": [
+        1.0,
+        0.9995877146720886,
+        0.9999149441719055
+      ],
+      "min": [
+        -1.0,
+        -0.9990315437316895,
+        -0.999301552772522
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1566,
+      "max": [
+        1.0,
+        0.9999479651451111,
+        0.9992973804473877,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9999068379402161,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1566,
+      "max": [
+        1.986661434173584,
+        0.991783082485199
+      ],
+      "min": [
+        0.006095752120018005,
+        0.006118163466453552
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 6582,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 37584,
+      "componentType": 5126,
+      "count": 1840,
+      "max": [
+        0.3170841932296753,
+        0.3170841932296753,
+        0.5105026960372925
+      ],
+      "min": [
+        -0.3170841932296753,
+        -0.3170841932296753,
+        0.0011056512594223022
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 59664,
+      "componentType": 5126,
+      "count": 1840,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 25056,
+      "componentType": 5126,
+      "count": 1840,
+      "max": [
+        0.9992694854736328,
+        0.9992695450782776,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9992695450782776,
+        -0.9992695450782776,
+        -0.9990911483764648,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12528,
+      "componentType": 5126,
+      "count": 1840,
+      "max": [
+        3.0734424591064453,
+        0.9416133761405945
+      ],
+      "min": [
+        0.012521937489509583,
+        0.03262855485081673
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 26328,
+      "componentType": 5125,
+      "count": 8328,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "AtTheSpeedOf (https://sketchfab.com/AtTheSpeedOf)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/wrinkly-chair-ca86615f1b924275a579e063256abbe4",
+      "title": "Wrinkly Chair"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 59640,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 27248,
+      "byteOffset": 59640,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 81744,
+      "byteOffset": 86888,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 54496,
+      "byteOffset": 168632,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 223128,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/chair_baseColor.png"
+    },
+    {
+      "uri": "textures/chair_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/chair_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "name": "chair",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "chairtop_chair_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "chairbottom_chair_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "2c6e0d6a6f35474d8864144392e75ac6.fbx"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        -0.00017881393432617188,
+        51.05024719238281,
+        9.5367431640625e-05,
+        1.0
+      ],
+      "name": "chairtop"
+    },
+    {
+      "mesh": 0,
+      "name": "chairtop_chair_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "chairbottom"
+    },
+    {
+      "mesh": 1,
+      "name": "chairbottom_chair_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
